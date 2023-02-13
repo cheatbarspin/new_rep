@@ -12,4 +12,4 @@ def func(x, y):
 
     :return:
     """
-    return x + y
+    return x - y
